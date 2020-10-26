@@ -4,11 +4,17 @@
     padding: 0;
 }
 
-body {
+body {font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: rgb(45, 250, 107);
     padding: 40px;
 }
+h1{ font-size: 40px; }
+h3{font-size: 20px;text-align: center;letter-spacing: 0.1px; word-spacing: 1em;}
 
-blockquote {
-    margin: 0 0 0 30px;
+blockquote {font-style: italic;
+    margin: 0 0 0 30px;line-height: 1.4em;
 }
+span{text-decoration: line-through;}
+em{text-transform: uppercase;}
+strong{text-transform: uppercase bold;}
+a{color: rgb(83, 42, 196); text-decoration: none;}
 
