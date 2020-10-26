@@ -6,9 +6,48 @@
 
 body {
     padding: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 blockquote {
     margin: 0 0 0 30px;
+    font-style: italic;
+    line-height: 30px;
+    
+    
 }
+
+h1{
+    font-size: 3rem;
+}
+
+h3{
+    font-size: 1.5rem;
+}
+
+span{
+
+    text-decoration: line-through;
+}
+
+em{
+    text-transform: capitalize;
+}
+
+strong{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+}
+
+h3{
+    letter-spacing: -2px;
+    word-spacing: 8px;
+}
+
+
 
