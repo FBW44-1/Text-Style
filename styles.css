@@ -6,9 +6,42 @@
 
 body {
     padding: 40px;
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 blockquote {
     margin: 0 0 0 30px;
 }
-
+h1, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+h1 {
+    font-size: 3em;
+}
+h3 {
+    font-size: 1.5em;
+    text-align: center;
+    letter-spacing: -3px;
+    word-spacing: 20px;
+}
+blockquote {
+    font-style: italic;
+    text-indent: 50px;
+    line-height: 1.5em;
+}
+span {
+    text-decoration: line-through red;
+}
+em {
+    text-transform: capitalize;
+}
+strong {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+a:link {
+    color: lime;
+    text-decoration: none;
+}
